@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HOME on Aly F. Somani</title>
+    <link>https://alysomani.github.io/</link>
+    <description>Recent content in HOME on Aly F. Somani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://alysomani.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://alysomani.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alysomani.github.io/cv/</guid>
+      <description>Last Updated: September 6th, 2022 PDF Version
+Research Interests: Public economics, Labour economics, Political Economy
+Citizenship: Canadian, Pakistani
+Languages: English (native), Urdu (native)
+EDUCATION Doctor of Philosophy, Economics 2023 (Expected) University of Toronto Committee: Kory Kroft (supervisor), Gustavo Bobonis, Michael Stepner Master of Arts, Economics 2017 University of Toronto Bachelor of Mathematics, Mathematical Economics 2012 University of Waterloo Degree honours: With Distinction, Dean&#39;s Honours List WORKING PAPERS The Kids Are All Right: Parental Job Loss and Children’s Academic Achievement (JMP) This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia.</description>
+    </item>
+    
+    <item>
+      <title>RESEARCH</title>
+      <link>https://alysomani.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alysomani.github.io/research/</guid>
+      <description>The Kids Are All Right: Parental Job Loss and Children’s Academic Achievement (JMP)
+This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia. I find no significant effects on children&amp;rsquo;s test scores due to parental job loss. I also find that matching only on parent/household level variables can still lead to selection into layoff on unobservables that are correlated with children&amp;rsquo;s academic ability.</description>
+    </item>
+    
+  </channel>
+</rss>
