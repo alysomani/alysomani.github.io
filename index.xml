@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on Aly F. Somani</title>
+    <title>HOME on Aly Somani</title>
     <link>https://alysomani.github.io/</link>
-    <description>Recent content in HOME on Aly F. Somani</description>
+    <description>Recent content in HOME on Aly Somani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://alysomani.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>CV</title>
-      <link>https://alysomani.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alysomani.github.io/cv/</guid>
-      <description>Last Updated: September 6th, 2022 PDF Version
-Research Interests: Public economics, Labour economics, Political Economy
-Citizenship: Canadian, Pakistani
-Languages: English (native), Urdu (native)
-EDUCATION Doctor of Philosophy, Economics 2023 (Expected) University of Toronto Committee: Kory Kroft (supervisor), Gustavo Bobonis, Michael Stepner Master of Arts, Economics 2017 University of Toronto Bachelor of Mathematics, Mathematical Economics 2012 University of Waterloo Degree honours: With Distinction, Dean&#39;s Honours List WORKING PAPERS The Kids Are All Right: Parental Job Loss and Children’s Academic Achievement (JMP) This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia.</description>
-    </item>
-    
     <item>
       <title>RESEARCH</title>
       <link>https://alysomani.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://alysomani.github.io/research/</guid>
-      <description>The Kids Are All Right: Parental Job Loss and Children’s Academic Achievement (JMP)
-This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia. I find no significant effects on children&amp;rsquo;s test scores due to parental job loss. I also find that matching only on parent/household level variables can still lead to selection into layoff on unobservables that are correlated with children&amp;rsquo;s academic ability.</description>
+      <description>The Kids Are All Right: Parental Job Loss and Children’s Academic Performance (JMP) - Coming soon!
+This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia. My research design uses a matched comparison as well as the variation in the timing of parental layoffs relative to children&amp;rsquo;s assessment period in a difference-in-difference setup. I find no significant effects on children&amp;rsquo;s test scores due to parental job loss.</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>https://alysomani.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alysomani.github.io/resume/</guid>
+      <description> Last Updated: October 1st, 2022 PDF Version
+SKILLS Research: empirical microeconomics, causal inference, quasi-experimental research designs, regression discontinuity, difference-in-difference, instrumental variables, matching
+Programming: STATA, Python, R, SQL
+Languages: English (native), Urdu (mother tongue)
+EDUCATION AND CERTIFICATIONS PhD in Economics, University of Toronto Expected 2023 MA in Economics, University of Toronto 2017 BMath in Mathematical Economics, University of Waterloo 2012 Chartered Financial Analyst (CFA) Charterholder2016 - 2018 WORK EXPERIENCE Research Analyst</description>
     </item>
     
   </channel>
