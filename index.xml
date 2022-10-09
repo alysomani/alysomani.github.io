@@ -7,6 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://alysomani.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CV</title>
+      <link>https://alysomani.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://alysomani.github.io/cv/</guid>
+      <description> Last Updated: October 1st, 2022 PDF Version
+SKILLS Research: empirical microeconomics, causal inference, quasi-experimental research designs, regression discontinuity, difference-in-difference, instrumental variables, matching
+Programming: STATA, Python, R, SQL
+Languages: English (native), Urdu (mother tongue)
+EDUCATION AND CERTIFICATIONS PhD in Economics, University of Toronto Expected 2023 MA in Economics, University of Toronto 2017 BMath in Mathematical Economics, University of Waterloo 2012 CFA&amp;#174; Charterholder2016 - 2018 WORK EXPERIENCE Research Analyst</description>
+    </item>
+    
+    <item>
       <title>RESEARCH</title>
       <link>https://alysomani.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -14,19 +27,6 @@
       <guid>https://alysomani.github.io/research/</guid>
       <description>The Kids Are All Right: Parental Job Loss and Children’s Academic Performance (JMP) - Coming soon!
 This paper investigates the effect of parental layoff on children’s academic achievement in grades 4, 7, and 10, using administrative data from British Columbia. My research design uses a matched comparison as well as the variation in the timing of parental layoffs relative to children&amp;rsquo;s assessment period in a difference-in-difference setup. I find no significant effects on children&amp;rsquo;s test scores due to parental job loss.</description>
-    </item>
-    
-    <item>
-      <title>Résumé</title>
-      <link>https://alysomani.github.io/resume/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alysomani.github.io/resume/</guid>
-      <description> Last Updated: October 1st, 2022 PDF Version
-SKILLS Research: empirical microeconomics, causal inference, quasi-experimental research designs, regression discontinuity, difference-in-difference, instrumental variables, matching
-Programming: STATA, Python, R, SQL
-Languages: English (native), Urdu (mother tongue)
-EDUCATION AND CERTIFICATIONS PhD in Economics, University of Toronto Expected 2023 MA in Economics, University of Toronto 2017 BMath in Mathematical Economics, University of Waterloo 2012 Chartered Financial Analyst (CFA) Charterholder2016 - 2018 WORK EXPERIENCE Research Analyst</description>
     </item>
     
   </channel>
